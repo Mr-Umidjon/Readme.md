@@ -1,6 +1,6 @@
-## Hi there, [Umidjon](https://t.me/studentastrum/) here 👋🏼👨🏻‍💻
+## Hi there, [Umidjon](https://t.me/Hope3538/) here 👋🏼👨🏻‍💻
 
-[![Instagram Badge](https://img.shields.io/badge/-buranbaev_life-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/buranbaev_life)
+[![Instagram Badge](https://img.shields.io/badge/-umidbekmaxammadsoliyev-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/buranbaev_life)
 [![](https://img.shields.io/badge/-@burxoncoder1-%23181717?style=flat-square&logo=github)](https://github.com/burxoncoder1)
 [![Telegram Badge](https://img.shields.io/badge/-@burxoncoder1-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/burxoncoder1 "Contact on Telegram")
 
