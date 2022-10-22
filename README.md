@@ -1,10 +1,10 @@
-## Hi there, [Umidjon](https://t.me/Hope3538/) here 👋🏼👨🏻‍💻
+## Hi there, [Umidbek](https://t.me/Hope3538/) here 👋🏼👨🏻‍💻
 
 [![Instagram Badge](https://img.shields.io/badge/-umidbekmaxammadsoliyev-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/buranbaev_life)
-[![](https://img.shields.io/badge/-@burxoncoder1-%23181717?style=flat-square&logo=github)](https://github.com/burxoncoder1)
+[![](https://img.shields.io/badge/-@Mr-Umidjon-%23181717?style=flat-square&logo=github)](https://github.com/Mr-Umidjon)
 [![Telegram Badge](https://img.shields.io/badge/-@burxoncoder1-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/burxoncoder1 "Contact on Telegram")
 
-<-Hello, My name is Burxon.  I mainly work with the Data science. I can create any site by the help of Python and C.
+<- Hello, My name is Umidbek.  I mainly work with the Data science. I can create any site by the help of Python and C.
 <img style="margin:10px" align="right" alt="Hello world gif" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" height="300" width="400" />
 
 **Talking about Personal Stuffs:**
