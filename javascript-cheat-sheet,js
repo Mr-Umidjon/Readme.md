@@ -1,0 +1,29 @@
+// VARIABLES
+var x = 5;              // global scope
+let y = 'hello';        // block scope
+const PI = 3.14;        // constant variable
+
+// DATA TYPES
+let num = 5;            // number
+let str = 'hello';      // string
+let bool = true;        // boolean
+let n = null;           // null
+let u = undefined;      // undefined
+let arr = [1, 2, 3];    // array
+let obj = {             // object
+  name: 'John',
+  age: 30,
+  address: {
+    city: 'New York',
+    state: 'NY'
+  }
+};
+
+// CONDITIONALS
+if (x > 0) {
+  console.log('Positive');
+} else if (x < 0) {
+  console.log('Negative');
+} else {
+  console.log('Zero');
+}
