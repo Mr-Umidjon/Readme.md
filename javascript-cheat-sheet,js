@@ -1,0 +1,93 @@
+// VARIABLES
+var x = 5;              // global scope
+let y = 'hello';        // block scope
+const PI = 3.14;        // constant variable
+
+// DATA TYPES
+let num = 5;            // number
+let str = 'hello';      // string
+let bool = true;        // boolean
+let n = null;           // null
+let u = undefined;      // undefined
+let arr = [1, 2, 3];    // array
+let obj = {             // object
+  name: 'John',
+  age: 30,
+  address: {
+    city: 'New York',
+    state: 'NY'
+  }
+};
+
+// CONDITIONALS
+if (x > 0) {
+  console.log('Positive');
+} else if (x < 0) {
+  console.log('Negative');
+} else {
+  console.log('Zero');
+}
+
+
+
+// LOOPS
+for (let i = 0; i < arr.length; i++) {
+  console.log(arr[i]);
+}
+
+let i = 0;
+while (i < 5) {
+  console.log(i);
+  i++;
+}
+
+// FUNCTIONS
+function add(a, b) {
+  return a + b;
+}
+
+const multiply = (a, b) => {
+  return a * b;
+};
+
+// CALLBACKS & PROMISES
+function getData(callback) {
+  setTimeout(() => {
+    callback('data');
+  }, 1000);
+}
+
+getData((data) => {
+  console.log(data);
+});
+
+const promise = new Promise((resolve, reject) => {
+  setTimeout(() => {
+    resolve('data');
+  }, 1000);
+});
+
+promise.then((data) => {
+  console.log(data);
+});
+
+
+// OOP
+class Person {
+  constructor(name, age) {
+    this.name = name;
+    this.age = age;
+  }
+
+  greeting() {
+    console.log(`Hello, my name is ${this.name}.`);
+  }
+}
+
+const john = new Person('John', 30);
+john.greeting();
+
+// ES6 FEATURES
+const message = `My name is ${john.name} and I am ${john.age} years old.`;
+const nums = [4, 5, 6];
+const sum = add(...nums);
