@@ -71,3 +71,23 @@ promise.then((data) => {
   console.log(data);
 });
 
+
+// OOP
+class Person {
+  constructor(name, age) {
+    this.name = name;
+    this.age = age;
+  }
+
+  greeting() {
+    console.log(`Hello, my name is ${this.name}.`);
+  }
+}
+
+const john = new Person('John', 30);
+john.greeting();
+
+// ES6 FEATURES
+const message = `My name is ${john.name} and I am ${john.age} years old.`;
+const nums = [4, 5, 6];
+const sum = add(...nums);
