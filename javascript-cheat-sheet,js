@@ -27,3 +27,47 @@ if (x > 0) {
 } else {
   console.log('Zero');
 }
+
+
+
+// LOOPS
+for (let i = 0; i < arr.length; i++) {
+  console.log(arr[i]);
+}
+
+let i = 0;
+while (i < 5) {
+  console.log(i);
+  i++;
+}
+
+// FUNCTIONS
+function add(a, b) {
+  return a + b;
+}
+
+const multiply = (a, b) => {
+  return a * b;
+};
+
+// CALLBACKS & PROMISES
+function getData(callback) {
+  setTimeout(() => {
+    callback('data');
+  }, 1000);
+}
+
+getData((data) => {
+  console.log(data);
+});
+
+const promise = new Promise((resolve, reject) => {
+  setTimeout(() => {
+    resolve('data');
+  }, 1000);
+});
+
+promise.then((data) => {
+  console.log(data);
+});
+
